@@ -36,7 +36,6 @@ body {
 
 .slider {
     display: flex;
-    transition: all 0s ease;
 }
 
 .image {
